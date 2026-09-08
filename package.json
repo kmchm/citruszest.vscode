@@ -1,0 +1,22 @@
+{
+  "name": "citruszest",
+  "displayName": "Citruszest",
+  "description": "A dark theme with bright, juicy citrus colors — vibrant oranges, zesty yellows and refreshing greens. Ported from citruszest.nvim.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Citruszest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/citruszest-color-theme.json"
+      }
+    ]
+  }
+}

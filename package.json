@@ -16,6 +16,11 @@
         "label": "Citruszest",
         "uiTheme": "vs-dark",
         "path": "./themes/citruszest-color-theme.json"
+      },
+      {
+        "label": "Citruszest Light",
+        "uiTheme": "vs",
+        "path": "./themes/citruszest-light-color-theme.json"
       }
     ]
   }

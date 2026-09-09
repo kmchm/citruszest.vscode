@@ -766,7 +766,8 @@
         "keyword.control.default"
       ],
       "settings": {
-        "foreground": "#33FFFF"
+        "foreground": "#33FFFF",
+        "fontStyle": "bold"
       }
     },
     {
@@ -776,7 +777,8 @@
         "keyword.control.repeat"
       ],
       "settings": {
-        "foreground": "#FFFF00"
+        "foreground": "#FFFF00",
+        "fontStyle": "bold"
       }
     },
     {
@@ -786,7 +788,8 @@
         "keyword.control.flow.return"
       ],
       "settings": {
-        "foreground": "#FFFF00"
+        "foreground": "#FFFF00",
+        "fontStyle": "bold"
       }
     },
     {
@@ -797,7 +800,8 @@
         "keyword.other.fn"
       ],
       "settings": {
-        "foreground": "#FF1A75"
+        "foreground": "#FF1A75",
+        "fontStyle": "bold"
       }
     },
     {
@@ -808,7 +812,8 @@
         "storage.modifier.async"
       ],
       "settings": {
-        "foreground": "#FF1A75"
+        "foreground": "#FF1A75",
+        "fontStyle": "bold"
       }
     },
     {
@@ -843,7 +848,8 @@
         "keyword.control.catch"
       ],
       "settings": {
-        "foreground": "#00BFFF"
+        "foreground": "#00BFFF",
+        "fontStyle": "bold"
       }
     },
     {
@@ -869,7 +875,8 @@
         "keyword.other.static"
       ],
       "settings": {
-        "foreground": "#FFD700"
+        "foreground": "#FFD700",
+        "fontStyle": "bold"
       }
     },
     {
@@ -881,7 +888,8 @@
         "punctuation.definition.directive"
       ],
       "settings": {
-        "foreground": "#FFD700"
+        "foreground": "#FFD700",
+        "fontStyle": "bold"
       }
     },
     {
